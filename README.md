@@ -23,21 +23,6 @@ A full-stack Product Inventory Management System built using React (Frontend), F
 
 ---
 
-## Project Structure
-
-```
-product-inventory-system/
-│
-├── frontend/        
-├── main.py          
-├── database.py      
-├── model.py         
-├── requirements.txt 
-└── .gitignore
-```
-
----
-
 ## How to Run the Project
 
 ### Backend (FastAPI)
